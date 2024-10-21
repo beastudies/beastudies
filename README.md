@@ -9,3 +9,4 @@ Projects in 🇧🇷, 🇫🇷, 🇺🇸 and 🇪🇸
 how to reach me: beatriz.leal@ufba.br <br>
 fun fact: I code because I think it's fun :)
 
+[https://img.shields.io/badge/-R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
