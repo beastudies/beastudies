@@ -1,4 +1,4 @@
-## Seja Bem-Vindo! 👋
+## Hi there! 👋
 
 I'm currently an undergraduate student in Social Sciences from Brazil. <br>
 I'm been learning Rprograming and Rstats since 2022 on my own to became a better social scientist and researcher! <br>
