@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm currently an undergraduate student in Social Sciences from Brazil. <br>
+My name is Beatriz and I'm currently an undergraduate student in Social Sciences from Brazil. <br>
 I'm been learning Rprograming and Rstats since 2022 on my own to became a better social scientist and researcher! <br>
 My areas of interest include methods quantitatives, public policies and urban development. I've also colaborated on projects related to digital methods and public opinion. <br>
 
