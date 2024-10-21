@@ -1,11 +1,12 @@
 ## Seja Bem-Vindo! 👋
 
-I'm currently an undergraduate student in Social Sciences from Brasil. <br>
+I'm currently an undergraduate student in Social Sciences from Brazil. <br>
 I'm been learning Rprograming and Rstats since 2022 on my own to became a better social scientist and researcher! <br>
 My areas of interest include methods quantitatives, public policies and urban development. I've also colaborated on projects related to digital methods and public opinion. <br>
 
 #### Projects in 🇧🇷, 🇫🇷, 🇺🇸 and 🇪🇸
 
+🔭 Previous projects: You can check out my previous talks at [meus_slides](https://github.com/btrzleal/meus_slides) and other fun coding projects by visiting [fun_with_R](https://github.com/btrzleal/fun_with_r) <br>
 📫 How to reach me: beatriz.leal@ufba.br <br>
 ⚡ Fun fact: I code because I think it's fun :)
 
