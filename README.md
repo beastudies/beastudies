@@ -10,3 +10,5 @@ how to reach me: beatriz.leal@ufba.br <br>
 fun fact: I code because I think it's fun :)
 
 <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge"/>
+
+<--- https://github.com/cfprocha/distintivos ---> 
