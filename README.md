@@ -7,7 +7,7 @@ My areas of interest include methods quantitatives, public policies and urban de
 #### Projects in 🇧🇷, 🇫🇷, 🇺🇸 and 🇪🇸
 
 🔭 You can check out my previous talks at [meus_slides](https://github.com/btrzleal/meus_slides) <br>
-🪁 Discover my other fun coding projects by visiting [fun_with_R](https://github.com/btrzleal/fun_with_r) <br>
+🪁 Discover more of my fun coding projects by visiting [fun_with_R](https://github.com/btrzleal/fun_with_r) <br>
 📫 Feel free to reach out me via beatriz.leal@ufba.br <br>
 ⚡ Fun fact: I code because I think it's fun :)
 
